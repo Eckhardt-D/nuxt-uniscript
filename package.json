@@ -1,6 +1,6 @@
 {
   "name": "nuxt-uniscript",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A Nuxt module to universally load and dedupe synchronous scripts on a page level",
   "main": "dist/module.js",
   "scripts": {
