@@ -1,13 +1,26 @@
 {
   "name": "nuxt-uniscript",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Nuxt module to universally load and dedupe synchronous scripts on a page level",
   "main": "dist/module.js",
   "scripts": {
     "build": "tsup lib/module.ts lib/plugin.ts --external vue"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "nuxt",
+    "uniscript",
+    "performance"
+  ],
+  "author": "Eckhardt Dreyer <eckhardt@dreyer.com.na> (https://eckhardt.dreyer.com.na",
+  "funding": {
+    "type": "individual",
+    "url": "https://kaizen.com.na/payment?amt=10000&ref=npm-fund"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eckhardt-D/nuxt-uniscript.git"
+  },
+  "homepage": "https://github.com/Eckhardt-D/nuxt-uniscript#readme",
   "license": "ISC",
   "devDependencies": {
     "@nuxt/types": "^2.15.8",
