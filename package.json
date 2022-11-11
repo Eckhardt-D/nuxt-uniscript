@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-uniscript",
+  "version": "0.1.1",
+  "description": "A Nuxt module to universally load and dedupe synchronous scripts on a page level",
+  "main": "dist/module.js",
+  "scripts": {
+    "build": "tsup lib/module.ts lib/plugin.ts --external vue"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nuxt/types": "^2.15.8",
+    "tsup": "^6.4.0",
+    "vue": "2.7.7"
+  }
+}
