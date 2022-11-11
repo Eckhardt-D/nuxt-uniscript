@@ -14,7 +14,7 @@
   "author": "Eckhardt Dreyer <eckhardt@dreyer.com.na> (https://eckhardt.dreyer.com.na",
   "funding": {
     "type": "individual",
-    "url": "https://kaizen.com.na/payment?amt=10000&ref=npm-fund"
+    "url": "https://kaizen.com.na/payment?ref=npm-fund"
   },
   "repository": {
     "type": "git",
